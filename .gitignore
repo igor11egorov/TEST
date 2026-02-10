@@ -1,0 +1,4 @@
+*.bmp
+test.log
+testdir/
+.DS_Store
